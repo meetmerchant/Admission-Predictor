@@ -1,2 +1,1 @@
-"# Admission-Predictor" 
-"# Admission-Predictor" 
+This project is created to estimate chances of graduate admission from an Indian perspective. Our analysis will help us in understanding what factors are important in graduate admissions and how these factors are interrelated among themselves. It will also help predict one's chances of admission given the rest of the variables. The chances that are predicted in this model are not confirmed answers to their admission. The predictions are based on the dataset that we have acquired.
